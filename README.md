@@ -96,7 +96,7 @@ Install them via the provided `requirements.txt`.
 
 ## 🤝 Contributors
 
-* **Adithya Sivakumar**
+* **Adithya M Sivakumar**
   MSBA Candidate @ UC Davis
   
 * **Aishwarya Banumathy**
