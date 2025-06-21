@@ -96,10 +96,10 @@ Install them via the provided `requirements.txt`.
 
 ## 🤝 Contributors
 
-* **Aishwarya Banumathy**
-  MSBA Candidate @ UC Davis
- 
 * **Adithya Sivakumar**
+  MSBA Candidate @ UC Davis
+  
+* **Aishwarya Banumathy**
   MSBA Candidate @ UC Davis
 
 * **Sanjay Puri**
