@@ -1,3 +1,6 @@
+# Disease Hotspot Prediction with Graph Neural Networks
+
+This project uses spatio-temporal Graph Neural Networks to predict respiratory disease hotspots across U.S. counties using EPA air pollution data. An interactive Streamlit dashboard visualizes hotspot intensity, pollutant trends, and high-risk regions, supporting public health research and environmental monitoring.
 
 # 🌡️ US Disease Hotspot & Pollutant Dashboard
 
